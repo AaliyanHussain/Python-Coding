@@ -1,6 +1,6 @@
 # Python 2D Horror Game Learning Journey
 
-A hands-on repository tracking my progress learning foundational Python programming for a text-based 2D horror game.
+A hands-on repository tracking my progress self-learning foundational Python programming to make my very own 2D psychological horror game.
 
 ## Scripts Included
 * `horrorgame.py` - A complete mini-game loop featuring inventory lists (`.append()`, `.remove()`) and conditional branching (`if/else`) for puzzle resolution.
@@ -13,4 +13,7 @@ A hands-on repository tracking my progress learning foundational Python programm
 * Conditional statements (`if`, `else`)
 * String formatting and control characters (`\n`)
 * Code block indentation and syntax debugging
+* Learning How to Use Pygame
+* Adding Rooms and Character in the game.
+
 
